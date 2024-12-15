@@ -6,7 +6,7 @@ VERSION="latest"
 FIZZUP_VERSION="v1.1.2"
 
 # Fizz variables
-GATEWAY_ADDRESS="gwger.testnetcsphn.xyz" # Provider domain: example = provider.devnetcsphn.com
+GATEWAY_ADDRESS="gwsing.testnetcsphn.xyz" # Provider domain: example = provider.devnetcsphn.com
 GATEWAY_PROXY_PORT="8553" # Proxyport = 8553
 GATEWAY_WEBSOCKET_PORT="8544" # ws url of the gateway example= ws://provider.devnetcsphn.com:8544
 CPU_PRICE="3"
@@ -14,8 +14,8 @@ CPU_UNITS="4"
 MEMORY_PRICE="0.8"
 MEMORY_UNITS="8"
 STORAGE_PRICE="1.6"
-WALLET_ADDRESS="0x2a29012810f1A2Ca278aFf378dE10e0488F3Cf0E" 
-USER_TOKEN="0x56364d93f98da8389e9988878bbf5541975c0a9efaa0fbab68251f03c913ac8c3e037af06e5d2eb7d462fe64ae2b985ece8a05885eb296dbcc40e7a7cc2a070d00"
+WALLET_ADDRESS="0x687d9901C6d8bf7a0883E7E61a100a2a2989f6fe" 
+USER_TOKEN="0xd9d557a9b60c0a8090c291004b5aa45c546eb66afed7706c8c6baed2d91a2f9a6ba365b0f7f270d8f32f0e7879a58e3c5dab94677b411446c0e2b2ca4f267a9d00"
 STORAGE_UNITS="160"
 GPU_MODEL=""
 GPU_UNITS="0"
